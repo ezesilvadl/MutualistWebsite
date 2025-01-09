@@ -1,0 +1,114 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+        }
+
+        .header h1 {
+            margin: 0;
+        }
+
+        .menu {
+            display: flex;
+            list-style: none;
+            padding: 0;
+        }
+
+        .menu li {
+            margin: 0 15px;
+        }
+
+        .menu a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            transition: background-color 0.3s;
+        }
+
+        .menu a:hover {
+            background-color: #45a049;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+
+        .user-info {
+            display: flex;
+            align-items: center;
+            color: white;
+            font-weight: bold;
+        }
+
+        .user-info span {
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="header">
+            <h1>Administración - Mutualista</h1>
+            <ul class="menu">
+                <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem Text="Principal" Value="Principal" NavigateUrl="~/Principal.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Alta Empleado" Value="Alta Empleado" NavigateUrl="~/AltaEmpleado.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Alta Policlínica" Value="Alta Policlínica" NavigateUrl="~/AltaPoliclinica.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="ABM Consultorio" Value="ABM Consultorio" NavigateUrl="~/ABMConsultorio.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="ABM Pacientes" Value="ABM Pacientes" NavigateUrl="~/ABMPacientes.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Alta Consulta" Value="Alta Consulta" NavigateUrl="~/AltaConsulta.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Alta Solicitud" Value="Alta Solicitud" NavigateUrl="~/AltaSolicitud.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Marcar Asistencia a Consulta" Value="Marcar Asistencia a Consulta" NavigateUrl="~/MarcarAsistenciaAConsulta.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Listado de Consultas" Value="Listado de Consultas" NavigateUrl="~/ListadosDeConsultas.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Estadísticas" Value="Estadísticas" NavigateUrl="~/Estadisticas.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Cerrar Sesión" Value="Cerrar Sesión" NavigateUrl="~/Default.aspx"></asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            </ul>
+            <div class="user-info">
+                <asp:Label ID="lblUserName" runat="server" Text="Usuario" />
+            </div>
+        </div>
+
+        <div class="content">
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <div class="footer">
+            <p>&copy; 2024 Administración</p>
+        </div>
+    </form>
+</body>
+</html>
+

@@ -1,0 +1,11 @@
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Logica\bin\Release\Logica.dll
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Logica\bin\Release\Logica.pdb
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Logica\bin\Release\EntidadesCompartidas.dll
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Logica\bin\Release\Persistencia.dll
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Logica\bin\Release\EntidadesCompartidas.pdb
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Logica\bin\Release\Persistencia.pdb
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Logica\obj\Release\Logica.csproj.AssemblyReference.cache
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Logica\obj\Release\Logica.csproj.CoreCompileInputs.cache
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Logica\obj\Release\Logica.csproj.CopyComplete
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Logica\obj\Release\Logica.dll
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Logica\obj\Release\Logica.pdb

@@ -1,0 +1,6 @@
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\EntidadesCompartidas\bin\Release\EntidadesCompartidas.dll
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\EntidadesCompartidas\bin\Release\EntidadesCompartidas.pdb
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\EntidadesCompartidas\obj\Release\EntidadesCompartidas.csproj.AssemblyReference.cache
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\EntidadesCompartidas\obj\Release\EntidadesCompartidas.csproj.CoreCompileInputs.cache
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\EntidadesCompartidas\obj\Release\EntidadesCompartidas.dll
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\EntidadesCompartidas\obj\Release\EntidadesCompartidas.pdb

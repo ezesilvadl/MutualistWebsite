@@ -1,0 +1,9 @@
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Persistencia\bin\Debug\Persistencia.dll
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Persistencia\bin\Debug\Persistencia.pdb
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Persistencia\obj\Debug\Persistencia.dll
+C:\Studies\InstitutoBIOS\Segundo Año\Obligatorios\Obligatorio-1\MutualistWebsite\Persistencia\obj\Debug\Persistencia.pdb
