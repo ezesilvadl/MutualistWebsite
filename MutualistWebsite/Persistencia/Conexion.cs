@@ -8,7 +8,7 @@ namespace Persistencia
 {
     internal class Conexion
     {
-        private static string MiConexion = "Data Source = ZILVADEV\\SQLEXPRESS; Initial Catalog = MutualistWebsite; Integrated Security = True; Encrypt=False";
+        private static string MiConexion = "Data Source = EZESILVADL\\SQLEXPRESS; Initial Catalog = MutualistWebsite; Integrated Security = True; Encrypt=False";
 
         public static string Cnn
         {
